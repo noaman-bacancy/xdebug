@@ -9,7 +9,7 @@ Make sure to follow these steps carefully:
    Edit the `xdebug.ini` file and replace the placeholder IP address with your actual IP address.
 
 2. **Build Docker Containers:**
-   Execute `docker-compose build` in your terminal to build the Docker containers defined in your `docker-compose.yml` file.
+   Execute `docker-compose build` in terminal to build the Docker containers defined in your `docker-compose.yml` file.
 
 3. **Start Docker Containers:**
    Run `docker-compose up -d` in your terminal to start the Docker containers in detached mode.
@@ -26,3 +26,9 @@ Make sure to follow these steps carefully:
    - Save the configuration.
 
 Now, you should be able to set breakpoints and debug your PHP code using PhpStorm with your Dockerized environment.
+
+https://dev.to/jackmiras/laravel-with-php7-4-in-an-alpine-container-3jk6
+
+https://dev.to/jackmiras/docker-compose-for-a-laravel-app-ie7
+
+https://dev.to/jackmiras/xdebug-in-phpstorm-with-docker-2al8
