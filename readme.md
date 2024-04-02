@@ -27,6 +27,9 @@ Make sure to follow these steps carefully:
 
 Now, you should be able to set breakpoints and debug your PHP code using PhpStorm with your Dockerized environment.
 
+![xdebux](https://github.com/noaman-bacancy/xdebug/blob/main/xdebug.gif)
+
+
 https://dev.to/jackmiras/laravel-with-php7-4-in-an-alpine-container-3jk6
 
 https://dev.to/jackmiras/docker-compose-for-a-laravel-app-ie7
